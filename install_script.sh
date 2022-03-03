@@ -4,5 +4,7 @@ rm -rf dosya
 git clone https://github.com/torosyatko/dosya.git
 cd dosya
 mv .env-example .env
+sudo docker-compose stop
 sudo docker-compose up -d torserv
+sudo docker-compose build --no-cache torosya
 sudo docker-compose up torosya
