@@ -1,12 +1,1 @@
-https://riafan.ru/
-https://scr.online.sberbank.ru/api/fl/idgib-w-3ds
-https://www.gosuslugi.ru
-https://scr.online.sberbank.ru/api/fl/idgib-w-3ds
-https://gosuslugi41.ru
-https://scr.online.sberbank.ru/api/fl/idgib-w-3ds
-https://uslugi27.ru
-https://scr.online.sberbank.ru/api/fl/idgib-w-3ds
-https://gosuslugi29.ru
-https://scr.online.sberbank.ru/api/fl/idgib-w-3ds
-https://gosuslugi.astrobl.ru
-https://scr.online.sberbank.ru/api/fl/idgib-w-3ds
+https://3dsec.sberbank.ru/mportal3/auth/login
